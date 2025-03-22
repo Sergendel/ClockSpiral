@@ -7,6 +7,8 @@ This Python application is a simple GUI program developed with Tkinter and Matpl
 - **Real-Time Clock**: Displays the current time in hours, minutes, and seconds, updating continuously.
 - **Dynamic Spiral Plot**: Continuously plots points in a spiral pattern that gradually shrinks, creating a visually appealing spiral animation.
 
+![](ClockSpiral.png)
+
 ## Features
 
 - **Graphical User Interface (GUI)** built using Tkinter.
